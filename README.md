@@ -33,7 +33,7 @@
 
 ```ts
 const congdoan = {
-  name: "Trần Công Đoán",
+  name: "Trần Công Đoàn",
   alias: "CongDoan0806",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   role: "Full-Stack Developer",
